@@ -1,4 +1,7 @@
-# api documentation for  [node-mongoose-fixtures (v0.2.4)](https://github.com/kennethklee/node-mongoose-fixtures)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-mongoose-fixtures.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-mongoose-fixtures) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-mongoose-fixtures.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-mongoose-fixtures)
+# npmdoc-node-mongoose-fixtures
+
+#### api documentation for  [node-mongoose-fixtures (v0.2.4)](https://github.com/kennethklee/node-mongoose-fixtures)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-mongoose-fixtures.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-mongoose-fixtures) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-mongoose-fixtures.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-mongoose-fixtures)
+
 #### Easy way to create mongoose fixtures.
 
 [![NPM](https://nodei.co/npm/node-mongoose-fixtures.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-mongoose-fixtures)
